@@ -37,6 +37,5 @@ def create_url():
 
 if __name__ == "__main__":
     create_url()
-
 create_filter()
 create_query()
